@@ -139,5 +139,5 @@ https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="海外",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/ABC_News.png" group-title="国际",ABC News
+#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/ABC_News.png" group-title="海外",ABC News
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
