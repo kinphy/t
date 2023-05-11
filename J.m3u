@@ -8,7 +8,7 @@ http://183.207.249.71/cntv/live1/jsntsantao/jsntsantao
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/ntcctv.png" group-title="南通",崇川TV
 http://183.207.249.71/cntv/live1/jsntchongzhoustv/jsntchongzhoustv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
-http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221228213/index.m3u8
+http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221228118/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
