@@ -111,8 +111,6 @@ http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
 http://223.110.242.143:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/1.m3u
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",CETV-1
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="卫视",CETV-2
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="卫视",CETV-3
 http://183.207.248.71/gitv/live1/G_CETV-3/G_CETV-3
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视",CETV-4
@@ -143,7 +141,3 @@ http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="海外",Discovery HD
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="海外",HBO
-http://181.78.4.186:8000/play/a0h7/index.m3u8
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="海外",HBO 3
-http://185.188.188.235/live/hbo3/playlist.m3u8
