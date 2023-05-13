@@ -115,6 +115,8 @@ http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
 http://183.207.248.71/gitv/live1/G_CETV-3/G_CETV-3
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视",CETV-4
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="卫视",江苏综艺
+http://183.207.249.71/gitv/live1/G_JSZY/G_JSZY
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="卫视",江苏教育
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="卫视",江苏城市
