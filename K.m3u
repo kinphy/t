@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,#EXTM3U x-tvg-url="http://epg.112114.xyz/"
+#EXTINF:-1,#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1,南通新闻综合
 http://183.207.249.71/cntv/live1/jsntertao/jsntyitao#http://111.1.92.54/cm.wshls.homecdn.com/live/7cc9.m3u8
 #EXTINF:-1,南通生活
