@@ -131,15 +131,3 @@ http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227586/index.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="海外",Bloomberg TV+
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="海外",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="海外",FOX
-http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/ABC_News.png" group-title="海外",ABC News
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1,tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="海外",Discovery HD
-https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
