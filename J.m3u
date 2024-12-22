@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/NTTV1.png" group-title="南通",NTTV-1
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://github.com/kinphy/t/raw/refs/heads/main/NTTV1.png" group-title="南通",NTTV-1
 http://183.207.249.71/cntv/live1/jsntertao/jsntyitao
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/NTTV2.png" group-title="南通",NTTV-2
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://github.com/kinphy/t/raw/refs/heads/main/NTTV2.png" group-title="南通",NTTV-2
 http://183.207.249.71/cntv/live1/jsntertao/jsntertao
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/NTTV3.png" group-title="南通",NTTV-3
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://github.com/kinphy/t/raw/refs/heads/main/NTTV3.png" group-title="南通",NTTV-3
 http://183.207.249.71/cntv/live1/jsntsantao/jsntsantao
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/ntcctv.png" group-title="南通",崇川TV
 http://183.207.249.71/cntv/live1/jsntchongzhoustv/jsntchongzhoustv
