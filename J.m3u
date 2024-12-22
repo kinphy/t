@@ -47,7 +47,7 @@ http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221228227/index.m3u8
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221228099/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221228147/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/bjws.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://github.com/kinphy/t/raw/refs/heads/main/BRTV.png" group-title="卫视",北京卫视
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221228115/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/4/224/3221228153/index.m3u8
