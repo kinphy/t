@@ -5,8 +5,6 @@ http://183.207.249.71/cntv/live1/jsntertao/jsntyitao
 http://183.207.249.71/cntv/live1/jsntertao/jsntertao
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://github.com/kinphy/t/raw/refs/heads/main/NTTV3.png" group-title="南通",NTTV-3
 http://183.207.249.71/cntv/live1/jsntsantao/jsntsantao
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://gitee.com/kinphy/tv/raw/master/tl/ntcctv.png" group-title="南通",崇川TV
-http://183.207.249.71/cntv/live1/jsntchongzhoustv/jsntchongzhoustv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
