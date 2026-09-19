@@ -6,33 +6,33 @@ http://183.207.249.71/cntv/live1/jsntertao/jsntertao
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://github.com/kinphy/t/raw/refs/heads/main/NTTV3.png" group-title="南通",NTTV-3
 http://183.207.249.71/cntv/live1/jsntsantao/jsntsantao
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
-http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
+http://223.110.234.45:80/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
-http://223.110.241.206:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ
+http://223.110.234.40:80/ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
-http://223.110.241.206:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
+http://223.110.234.27:80/ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
-http://223.110.241.206:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ
+http://223.110.234.46:80/ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
-http://223.110.241.206:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ
+http://223.110.234.45:80/ott.mobaibox.com/PLTV/3/224/3221228395/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
-http://223.110.241.206:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ
+http://223.110.234.36:80/ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
-http://223.110.241.206:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ
+http://223.110.234.39:80/ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
-http://223.110.241.206:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
+http://223.110.234.25:80/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8
-http://223.110.241.206:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ
+http://223.110.234.36:80/ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
-http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+http://223.110.234.33:80/ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
-http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+http://223.110.234.28:80/ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
-http://223.110.241.206:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ
+http://223.110.234.35:80/ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
-http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+http://223.110.234.29:80/ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-http://223.110.241.206:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+http://223.110.234.36:80/ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
 http://223.110.235.132/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
